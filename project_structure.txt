@@ -1,0 +1,8 @@
+GenAI_Chatbot/
+│
+├── app.py
+├── requirements.txt
+├── .env.example
+├── .gitignore
+├── README.md
+└── project_structure.txt
